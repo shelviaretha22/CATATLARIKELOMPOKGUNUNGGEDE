@@ -6,10 +6,29 @@ Aplikasi ini dibuat sebagai tugas praktikum Pemrograman Mobile dengan menerapkan
 ---
 
 ## 👨‍💻 Informasi Kelompok
+Nama Kelompok Gunung Gede
+1. Nadia Ardyanti Sutrisno (24082010065) :
+- run_model.dart
+- user_model.dart
+- splash_page.dart
+- landing_page.dart
+- login_page.dart
+- register_page.dart
 
-1. Nadia Ardiyanti Sutrisno (24082010065)  
-2. Shelvia Retha Sofiana (24082010082)  
-3. Nafiisha Nuurfathina (24082010090)
+2. Shelvia Retha Sofiana (24082010082):
+- main.dart
+- run_viewmodel.dart
+- user_viewmodel.dart
+- home_page.dart
+- dashboard_page.dart
+- Editor Video
+- Upload Github dan lain lain
+
+3. Nafiisha Nuurfathina (24082010090):
+- add_run_page.dart
+- profile_page.dart
+- edit_profile_page.dart
+- settings_page.dart
 
 ---
 
