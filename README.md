@@ -23,7 +23,6 @@ Nama Kelompok Gunung Gede
 - dashboard_page.dart
 - README.md
 - Editor Video
-- Upload Github dan lain lain
 
 3. Nafiisha Nuurfathina (24082010090):
 - add_run_page.dart
